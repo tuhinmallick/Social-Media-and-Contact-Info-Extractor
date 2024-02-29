@@ -36,7 +36,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [tuhinmallick/Social-Media-and-Contact-Info-Extractor](https://github.com/tuhinmallick/Social-Media-and-Contact-Info-Extractor)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|10<br/>Tools used|02/19/24 <br/>Report generated|
+|10<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
